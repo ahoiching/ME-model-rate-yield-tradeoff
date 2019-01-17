@@ -1,3 +1,5 @@
+## Setting up the ME-model and solver
+### Create a virtual environment
 mkdir rate_yield
 virtualenv ./rate_yield/
 cd rate_yield/
