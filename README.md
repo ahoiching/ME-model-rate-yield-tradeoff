@@ -1,3 +1,7 @@
+This project aims to demonstrate the the relation between proteome allocation and rate-yield tradeoff of E.coli
+doi: https://doi.org/10.1101/414912
+
+We focus on the $k_{eff}$ parameters in the ME-model
 ## Setting up the ME-model and solver
 ### Create a virtual environment
 mkdir rate_yield
