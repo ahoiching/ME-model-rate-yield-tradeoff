@@ -8,15 +8,22 @@ In the ME-model, the metabolic pathways generate the precursors for protein synt
 ## Setting up the ME-model and solver
 ### Create a virtual environment
 mkdir rate_yield
+
 virtualenv ./rate_yield/
+
 cd rate_yield/
+
 source ./bin/activate
 
 ### Install cobrame package
 git clone https://github.com/SBRG/cobrame.git
+
 cd cobrame
+
 python setup.py develop
 
 git clone https://github.com/SBRG/ecolime.git
+
 cd ecolime/
+
 python setup.py develop
