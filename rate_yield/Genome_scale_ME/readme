@@ -1,0 +1,4 @@
+"iJL1678b.json" is the file generated from the build_me_model.py file in ecolime package
+python s1_read_and_solve_iJL1678b.py gives you the solution of maximizing the growth rate of the original iJL1678b.json model. The solution is saved in s1_solution.json, where you can see in maximum growth, acetate excretion rate is very small("EX_ac_e": 0.47729832561154145)
+
+
